@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JRivaas
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in data and machine learning.
+- 🌱 I’m currently learning Python and SQL.
+- 📫 jaimerivaas98@gmail.com
 
 <!---
 JRivaas/JRivaas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
