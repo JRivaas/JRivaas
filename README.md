@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JRivaas
-- 👀 I’m interested in data and machine learning.
-- 🌱 I’m currently learning Python and SQL.
+- 👀 I’m interested in data engineering.
+- 🌱 I’m currently working with Python and SQL.
 - 📫 jaimerivaas98@gmail.com
 
 <!---
